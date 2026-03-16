@@ -33,5 +33,4 @@ This project demonstrates how decentralized gaming and betting applications can 
 ---
 
 ## Deployed Smart Contract Link
-
-XXX
+https://stellar.expert/explorer/testnet/tx/eb458f7123263d980c7cd8f248ea744ee3d90d2723bd191862242203bd638e9a
